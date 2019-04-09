@@ -1,0 +1,13 @@
+Prerequisites:
+==============
+
+* AWS Account
+* Other Trail services
+* Monitor Costs, but they should be very low
+
+Labs:
+=====
+
+* short Introduction
+* Hands on building serverless
+* Install Node.js
