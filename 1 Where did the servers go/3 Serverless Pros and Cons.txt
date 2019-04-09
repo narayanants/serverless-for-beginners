@@ -1,0 +1,25 @@
+Serverless Pros and Cons:
+==========================
+
+Pros:
+=====
+
+    * Serverless (no servers)
+    * Versatile
+    * Scaleable
+    * Manageable Migration
+    * Low cost
+    * Less Code
+    * A single function can be run thousands of time in Parallel.
+
+Cons:
+=====
+
+    * Public Cloud
+    * Reliance on Service Level Agreements
+    * Limited Customization
+    * Vendor Lock-in
+    * Dececntralized Challenges
+
+
+
