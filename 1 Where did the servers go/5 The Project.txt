@@ -1,0 +1,20 @@
+The Project:
+============
+
+* Signup & Login
+* File upload & Storage
+* Video Transcoding
+* In-browser playback for the public
+* Event Driven
+
+
+Various Features:
+=================
+
+* Web App
+* Authentication
+* Custom API
+* Video upload
+* Video Transcoder
+* Media Storage
+* Video List Database
