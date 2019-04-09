@@ -1,0 +1,23 @@
+Serverless Patterns:
+====================
+
+Compute as Backend:
+====================
+
+* Client => API Gateway => Lambda Function => S3/Kinesis => SQS
+
+
+Compute As Glue:
+=================
+
+S3 => Lambda => RDS => SNS => SES => Lambda => CloudSearch => S3
+
+
+Other Patterns:
+===============
+
+* Command Patterns
+* Messaging Patterns
+* Priority Queue Patterns
+* Fan-out Patterns
+* Pipes and Filters Patterns
