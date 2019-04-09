@@ -1,0 +1,8 @@
+How did we get here:
+=====================
+
+
+Data centre - Hardware as the Unit of Scale. Abstracts the physical hosting environment
+IaaS - OS as the Unit of Scale. Abstracts the Hardware.
+PaaS - Application as the Unit of Scale. Abstracts the OS
+Serverless - Functions as the Unit of Scale. Abstracts the language runtime
