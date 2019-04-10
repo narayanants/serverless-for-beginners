@@ -1,5 +1,0 @@
-Creating S3 buckets and Policies:
-=================================
-
-* Create 2 S3 buckets (Source and Destination)
-* Create an IAM Role called lambda-execute-role with AmazonElasticTranscoder_JobsSubmitter and AWSLambdaExecute Roles.

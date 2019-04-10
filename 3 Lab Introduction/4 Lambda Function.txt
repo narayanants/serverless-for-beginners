@@ -1,9 +1,0 @@
-Lambda Function:
-================
-
-
-* Create an Lambda Function from scratch
-* Choose the Existing role
-* Set the timeout to 30 secs
-* ELASTIC_TRASCODER_REGION - YOUR REGION
-* PIPELINE_ID 
