@@ -1,0 +1,8 @@
+Elastic Transcoder:
+====================
+
+* Create a Pipeline
+* Input bucket
+* Destination bucket
+* Create Pipeline
+
