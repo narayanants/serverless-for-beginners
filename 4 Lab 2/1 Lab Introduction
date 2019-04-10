@@ -1,0 +1,18 @@
+Lab Introduction:
+===================
+
+* Web Application
+* Authentication
+
+Principle:
+==========
+
+* Use Third Party services
+
+Website & User Authentication:
+==============================
+
+* Client => Auth0 => JWT => AWS
+
+
+Configure OAuth for Single-sign-on
