@@ -1,0 +1,6 @@
+Principles of Serverless:
+=========================
+
+* Use a compute service to execute code on demand
+* Design push-based, event driven pipelines
+* Write Single-purpose Stateless Functions
