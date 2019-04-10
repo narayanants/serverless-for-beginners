@@ -1,0 +1,18 @@
+TroubleShooting Lambda:
+=======================
+
+* Upload code
+* Set timeout interval to 30
+* Configure Environment Variables
+* Upload file to source bucket
+* Upload file to destination bucket
+
+* CloudWatch Metrics:
+======================
+
+* Invocations - How many time the function has run
+* Duration - How long the function has run.
+* Error and Success Rate - Access Denied, code that is not right
+
+
+Check the CloudWatch Logs for Lambda function
